@@ -562,10 +562,10 @@
 
     <div id="feature-2" class="section feature">
         <div class="feature-img">
-            <img src={light ? "/class-topics-and-materials-light.svg" : "/class-topics-and-materials-dark.svg"} alt="logo"/>
+            <img src={light ? "/translation-light.svg" : "/translation-dark.svg"} alt="logo"/>
         </div>
         <div class="text-group-right">
-            <h3><span class="emphasis">Customisable specifications</span> to translate your website efficiently.</h3>
+            <h3><span class="emphasis">Translate reviews</span> on your website.</h3>
             <p>The Pikrex API gives you the power to customise the translations you need on your website to give you the most efficient and effective workflows.</p>
         </div>
     </div>
